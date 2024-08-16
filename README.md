@@ -1,2 +1,4 @@
-# nf-template
-Template of a Nextflow repository.
+# nf_templ
+
+Nextflow项目仓库的模板。
+
